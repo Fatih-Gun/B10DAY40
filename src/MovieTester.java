@@ -8,7 +8,7 @@ public class MovieTester {
 	System.out.println(m1.length);
 	m1.name="Superman";
 	m1.length=120;
-	
+	m1.name="sami";
 	m1.watch();
 	m1.buy(159);
 		
